@@ -8,16 +8,9 @@ I build scalable web applications using JavaScript/TypeScript and Python ecosyst
 - 🤝 Open to: Internships and Early Career Full-Stack Roles
 
 ### 💻 Tech Stack
-<p id="badges">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Flask" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Tailwind" />
-</p>
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Python Flask
+* **Database:** MongoDB
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Praveen's GitHub Stats" />
-</p>
+[![](https://vercel.app)](https://github.com)
