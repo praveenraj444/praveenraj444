@@ -8,28 +8,16 @@ I build scalable web applications using JavaScript/TypeScript and Python ecosyst
 - 🤝 Open to: Internships and Early Career Full-Stack Roles
 
 ### 💻 Tech Stack
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Node.js](https://shields.io)
-![Flask](https://shields.io)
-![MongoDB](https://shields.io)
-![Tailwind CSS](https://shields.io)
+<p id="badges">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Flask" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="Tailwind" />
+</p>
 
 ### 📊 GitHub Stats
-![Praveen's GitHub Stats](https://vercel.app)
-
-
-<!--
-**praveenraj444/praveenraj444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://vercel.app" alt="Praveen's GitHub Stats" />
+</p>
