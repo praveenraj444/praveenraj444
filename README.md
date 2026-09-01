@@ -4,7 +4,7 @@
 I build scalable web applications using JavaScript/TypeScript and Python ecosystems.
 
 - 🛠️ Currently working on: AI Support Chatbot App
-- 🎯 Core Focus: Next.js, Node.js, and Cloud Deployments
+- 🎯 Core Focus: React, Node.js, and Cloud Deployments
 - 🤝 Open to: Internships and Early Career Full-Stack Roles
 
 ### 💻 Tech Stack
