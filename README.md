@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Praveenraj! 👋
+
+### 🚀 Full Stack Developer | 2027 CSE Grad
+I build scalable web applications using JavaScript/TypeScript and Python ecosystems.
+
+- 🛠️ Currently working on: AI Support Chatbot App
+- 🎯 Core Focus: Next.js, Node.js, and Cloud Deployments
+- 🤝 Open to: Internships and Early Career Full-Stack Roles
+
+### 💻 Tech Stack
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Node.js](https://shields.io)
+![Flask](https://shields.io)
+![MongoDB](https://shields.io)
+![Tailwind CSS](https://shields.io)
+
+### 📊 GitHub Stats
+![Praveen's GitHub Stats](https://vercel.app)
+
 
 <!--
 **praveenraj444/praveenraj444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
